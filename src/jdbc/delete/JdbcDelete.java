@@ -1,4 +1,4 @@
-package JDBC;
+package jdbc.delete;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
