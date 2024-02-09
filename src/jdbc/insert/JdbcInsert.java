@@ -1,11 +1,11 @@
-package jdbc;
+package jdbc.insert;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
-public class JdbcInsertExample {
+public class JdbcInsert {
     public static void main(String[] args) {
         // Database connection parameters
         String jdbcUrl = "jdbc:mysql://localhost:3306/jdbcinsertexample";

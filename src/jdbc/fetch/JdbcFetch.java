@@ -1,8 +1,8 @@
-package jdbc;
+package jdbc.fetch;
 
 import java.sql.*;
 
-public class JdbcFetchEx {
+public class JdbcFetch {
     public static void main(String[] arg) {
 
             // Database connection parameters

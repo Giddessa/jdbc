@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
-public class JdbcDeleteEx {
+public class JdbcDelete {
     public static void main(String [] arg) {
         // Database connection parameters
         String jdbcUrl = "jdbc:mysql://localhost:3306/jdbcinsertexample";
